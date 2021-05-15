@@ -1,4 +1,4 @@
-- 👋 Hi, I’m nikhil @nick-py
+- 👋 Hi, I’m Nikhil @nick-py
 - 👀 I’m interested in Learning new skills and to utilise them.
 - 🌱 I’m currently learning JavaScript Algorithms and Data Structures.
 - 📫 How to reach me : www.linkedin.com/in/nikhil-sharma-95b5b515a
